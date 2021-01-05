@@ -15,7 +15,7 @@
     "email": "ashtonmeuser@gmail.com"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.7.2",
     "normalize.css": "^8.0.0",
     "object-assign": "^4.1.1",
