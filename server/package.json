@@ -8,7 +8,7 @@
   "author": "Ashton Meuser",
   "license": "MIT",
   "dependencies": {
-    "d3-scale": "^2.0.0",
+    "d3-scale": "^4.0.2",
     "d3-time": "^1.0.8"
   }
 }
